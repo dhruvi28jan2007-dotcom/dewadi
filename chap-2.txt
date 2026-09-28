@@ -1,2 +1,1 @@
-this is a second chapter of history
-types of a computer -pc -embedded -supercomputers -quantum computers
+chap-2.txt is aura
