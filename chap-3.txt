@@ -1,0 +1,1 @@
+cd mkdir touch mv cp chmod grep cd.. pwd ls lolcat rm rm-r
